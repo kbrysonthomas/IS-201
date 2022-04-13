@@ -1,0 +1,59 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    height: 100px;
+    background-color: lightgray;
+    line-height: 100px;
+}
+
+.footer{
+    height: 50px;
+    background-color: black;
+    color: aliceblue;
+}
+
+.common{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h5{
+    height: 100px;
+    background-color: lightgray;
+    line-height: 100px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300;
+  }
+
+.tableau{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%
+}
+
+body{
+    background-color: rgb(231, 230, 230);
+}
+
+a:link {
+    color:rgb(45, 45, 250)
+  }
